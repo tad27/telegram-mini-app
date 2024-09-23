@@ -15,7 +15,7 @@ function App() {
           />
         </a>
       </div>
-      <h1>Hello I'm Tad, Welcome to my first telegram mini app.</h1>
+      Hello I'm Tad, Welcome to my first <h1>telegram mini app.</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
